@@ -1,0 +1,4 @@
+python é uma linguagem poderosa
+bash também é útil
+python pode ser usado para ciência de dados
+muitos programadores usam python

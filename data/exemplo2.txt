@@ -1,0 +1,3 @@
+linux é um sistema operacional
+bash permite automatizar tarefas
+scripts bash são muito usados em servidores

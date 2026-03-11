@@ -1,0 +1,3 @@
+python é uma linguagem muito usada
+python é simples de aprender
+bash também é muito útil
